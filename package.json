@@ -1,0 +1,15 @@
+{
+    "name": "adjust-your-algo",
+    "version": "0.0.0",
+    "description": "Run puppeteer core in the background to modify your digital profile by navigating repeatedly to a specified set of webpages. ",
+    "main": "index.js",
+    "scripts": {
+      "start": "ts-node ./src/index.ts"
+    },
+    "author": "EllAchE",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^14.1.0",
+        "ts-node": "^10.7.0"
+    }
+  }
